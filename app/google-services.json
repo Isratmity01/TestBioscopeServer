@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "906611880591",
+    "firebase_url": "https://trialworks-76462.firebaseio.com",
+    "project_id": "trialworks-76462",
+    "storage_bucket": "trialworks-76462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906611880591:android:932399bebd89bff2",
+        "android_client_info": {
+          "package_name": "com.crazyhitty.chdev.ks.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906611880591-e0b4sn21dgn4v06f29eu38o3do6kdv9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crazyhitty.chdev.ks.firebasechat",
+            "certificate_hash": "87807cb0153812d4da48c1837574dfd8b75c37d4"
+          }
+        },
+        {
+          "client_id": "906611880591-2rp05i9gomt97u0j44mc8vn75tcbqckf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68JR61lEJLs7SKTJlf70QXDoPNci1Mrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906611880591-2rp05i9gomt97u0j44mc8vn75tcbqckf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906611880591:android:d2586889311316db",
+        "android_client_info": {
+          "package_name": "example.israt.com.testbioscopeserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906611880591-ufolfur0op9sigp9t388qc8qauugcaml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.israt.com.testbioscopeserver",
+            "certificate_hash": "72d9e33fa0648f8afaffb384c43506f4670c34b9"
+          }
+        },
+        {
+          "client_id": "906611880591-2rp05i9gomt97u0j44mc8vn75tcbqckf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68JR61lEJLs7SKTJlf70QXDoPNci1Mrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906611880591-2rp05i9gomt97u0j44mc8vn75tcbqckf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
